@@ -39,7 +39,7 @@ const questions = [
     {
         //tests
         name: "tests",
-        message: "Please write any tests for your project with examples on how to run themn.",
+        message: "Please write any tests for your project with examples on how to run them.",
         type: "input",
     },
     {
